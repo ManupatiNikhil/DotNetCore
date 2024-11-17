@@ -1,0 +1,5 @@
+{
+    "notebook.defaultFormatter": "alexkrechik.cucumberautocomplete",
+    "editor.defaultFormatter": "alexkrechik.cucumberautocomplete",
+    "editor.defaultFoldingRangeProvider": "alexkrechik.cucumberautocomplete"
+}

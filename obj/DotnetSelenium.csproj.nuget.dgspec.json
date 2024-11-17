@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nithish\\source\\repos\\DotnetSelenium\\DotnetSelenium.csproj": {}
+    "c:\\Users\\Nithish\\source\\repos\\DotnetSelenium\\DotnetSelenium.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nithish\\source\\repos\\DotnetSelenium\\DotnetSelenium.csproj": {
+    "c:\\Users\\Nithish\\source\\repos\\DotnetSelenium\\DotnetSelenium.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nithish\\source\\repos\\DotnetSelenium\\DotnetSelenium.csproj",
+        "projectUniqueName": "c:\\Users\\Nithish\\source\\repos\\DotnetSelenium\\DotnetSelenium.csproj",
         "projectName": "DotnetSelenium",
-        "projectPath": "C:\\Users\\Nithish\\source\\repos\\DotnetSelenium\\DotnetSelenium.csproj",
+        "projectPath": "c:\\Users\\Nithish\\source\\repos\\DotnetSelenium\\DotnetSelenium.csproj",
         "packagesPath": "C:\\Users\\Nithish\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nithish\\source\\repos\\DotnetSelenium\\obj\\",
+        "outputPath": "c:\\Users\\Nithish\\source\\repos\\DotnetSelenium\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,6 +69,18 @@
             "Selenium.WebDriver": {
               "target": "Package",
               "version": "[4.26.1, )"
+            },
+            "SpecFlow": {
+              "target": "Package",
+              "version": "[3.9.8, )"
+            },
+            "SpecFlow.NUnit": {
+              "target": "Package",
+              "version": "[3.9.8, )"
+            },
+            "SpecFlow.Tools.MsBuild.Generation": {
+              "target": "Package",
+              "version": "[3.9.8, )"
             },
             "coverlet.collector": {
               "target": "Package",
